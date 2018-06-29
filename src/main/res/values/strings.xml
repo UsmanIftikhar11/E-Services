@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">E-Services</string>
+    <array name="Occupation">
+
+        <item>PLUMBER</item>
+        <item>CARPANTER</item>
+        <item>DRIVER</item>
+        <item>ELECTRICIAN</item>
+        <item>PAINTER</item>
+        <item>CAR MECHANIC</item>
+        <item>GARDENER</item>
+        <item>CONTRACTOR</item>
+
+    </array>
+    <string name="title_activity_provider_map">Map</string>
+    <string name="title_activity_service_provider_login">ServiceProviderLogin</string>
+
+</resources>
